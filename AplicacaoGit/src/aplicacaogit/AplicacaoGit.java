@@ -10,7 +10,7 @@ public class AplicacaoGit {
         int numero1 =scan.nextInt();
         System.out.println("Digite o segundo valor");
         int numero2 = scan.nextInt();
-        System.out.println("A soma é" + (numero1 + numero2));
+        System.out.println("A soma" + (numero1 + numero2));
     }
     
 }
